@@ -22,7 +22,7 @@ pipeline {
 
             steps {
 
-                git branch:'main', credentialsId:'github-token', url:'https://github.com/Josue-lab/devops-project-01.git'
+                git branch:'main', credentialsId:'github-token', url:'https://github.com/Josue-lab/devops-project-1.git'
 
             }
 
